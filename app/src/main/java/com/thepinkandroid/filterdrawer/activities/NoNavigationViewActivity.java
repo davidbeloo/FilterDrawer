@@ -24,7 +24,6 @@ public class NoNavigationViewActivity extends AppCompatActivity implements Navig
     private RecyclerView mRecyclerView;
     private Toolbar mToolbar;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
