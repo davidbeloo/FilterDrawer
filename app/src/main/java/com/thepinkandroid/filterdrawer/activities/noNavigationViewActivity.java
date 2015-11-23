@@ -18,7 +18,7 @@ import android.view.View;
 import com.thepinkandroid.filterdrawer.R;
 import com.thepinkandroid.filterdrawer.adapters.FilterRecyclerAdapter;
 
-public class NoNavigationViewActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener
+public class noNavigationViewActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener
 {
     private DrawerLayout mDrawerLayout;
     private RecyclerView mRecyclerView;
