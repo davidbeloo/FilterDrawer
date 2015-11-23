@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 intent = new Intent(this, NavigationViewActivity.class);
                 break;
             case R.id.withoutNavigationBtn:
-                intent = new Intent(this, noNavigationViewActivity.class);
+                intent = new Intent(this, NoNavigationViewActivity.class);
                 break;
         }
         startActivity(intent);

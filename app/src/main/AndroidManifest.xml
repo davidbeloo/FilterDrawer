@@ -19,7 +19,7 @@
         </activity>
         <activity android:name=".activities.NavigationViewActivity"
                   android:theme="@style/AppTheme.NoActionBar"/>
-        <activity android:name=".activities.noNavigationViewActivity"
+        <activity android:name=".activities.NoNavigationViewActivity"
                   android:theme="@style/AppTheme.NoActionBar"/>
     </application>
 
