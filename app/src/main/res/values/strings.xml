@@ -4,4 +4,6 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="filter">Filter</string>
     <string name="example_category">Example category</string>
+    <string name="with_navigation_view">With Navigation View</string>
+    <string name="without_navigation_view">Without Navigation View</string>
 </resources>
