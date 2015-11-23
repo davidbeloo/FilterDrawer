@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FilterDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="filter">Filter</string>
+    <string name="example_category">Example category</string>
+</resources>
